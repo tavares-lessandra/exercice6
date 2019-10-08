@@ -1,0 +1,21 @@
+html, body{
+    
+    margin: .75em 1% ;	
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(147, 147, 180)
+   
+}
+
+.sp{
+    
+    display: flex;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+    
+}
+.sp:hover {
+    border-radius: 50%;
+
+}
